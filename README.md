@@ -8,7 +8,7 @@
 
 # 📝 Note: 
 1. You can do any suggestions either on my GitHub account 'AFJGitHubDev24' or my email id 'alenfrancis957@gmail.com'
-2. If you require MP4 files to see how the React applications work as MP4 files cannot be displayed directly in GitHub:
+2. If you require MP4 files to see how the given React applications work as MP4 files cannot be displayed directly in GitHub:
      - Select the required MP4 file.
      - Click 'View Raw'.
      - After clicking 'View Raw', your required MP4 file will be downloaded automatically to your system.
