@@ -13,9 +13,14 @@
      - Click 'View Raw'.
      - After clicking 'View Raw', your required MP4 file will be downloaded automatically to your system.
 
-# ⚒️ Current work:
-1. Working upon the exisitng Python files for enhancing them using frontend (with the help of HTML & CSS).
-2. Looking for an inclusion of Python's Flask library in some of the existing Python files.
+# 👨‍💻 Languages Used:
+1. Python ![python](https://github.com/user-attachments/assets/de38c76c-dad2-4636-b54b-571889cf6167)
+
+2. Java
+3. HTML (Hyper Text Markup Language)
+4. CSS (Cascading Style Sheets)
+5. JavaScript
+6. React.js (JSX - JavaScriptXML)
 
 # 🪪 LICENSE
 This repository is licensed under the [Apache License 2.0](LICENSE).
