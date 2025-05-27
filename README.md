@@ -14,8 +14,8 @@
      - After clicking 'View Raw', your required MP4 file will be downloaded automatically to your system.
 
 # 👨‍💻 Languages Used:
-1. Python ![python](https://github.com/user-attachments/assets/de38c76c-dad2-4636-b54b-571889cf6167)
-
+1. ![python](https://github.com/user-attachments/assets/de38c76c-dad2-4636-b54b-571889cf6167)
+   Python
 2. Java
 3. HTML (Hyper Text Markup Language)
 4. CSS (Cascading Style Sheets)
