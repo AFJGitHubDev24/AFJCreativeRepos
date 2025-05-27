@@ -14,7 +14,8 @@
      - After clicking 'View Raw', your required MP4 file will be downloaded automatically to your system.
 
 # 👨‍💻 Languages Used:
-![python](https://github.com/user-attachments/assets/de38c76c-dad2-4636-b54b-571889cf6167) ![images](https://github.com/user-attachments/assets/11b74f7f-7aba-4d41-ac69-3b0e2038100d) ![frontlang](https://github.com/user-attachments/assets/4fb77496-caa5-47a0-9506-6ea73be32ef4)
+![python](https://github.com/user-attachments/assets/de38c76c-dad2-4636-b54b-571889cf6167) ![images](https://github.com/user-attachments/assets/11b74f7f-7aba-4d41-ac69-3b0e2038100d) ![html](https://github.com/user-attachments/assets/4108b117-9c61-4de8-ab5a-04dd4c34ad7a)
+
 
 
 
