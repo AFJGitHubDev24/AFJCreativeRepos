@@ -14,13 +14,9 @@
      - After clicking 'View Raw', your required MP4 file will be downloaded automatically to your system.
 
 # 👨‍💻 Languages Used:
-1. ![python](https://github.com/user-attachments/assets/de38c76c-dad2-4636-b54b-571889cf6167)
-   Python
-2. Java
-3. HTML (Hyper Text Markup Language)
-4. CSS (Cascading Style Sheets)
-5. JavaScript
-6. React.js (JSX - JavaScriptXML)
+![python](https://github.com/user-attachments/assets/de38c76c-dad2-4636-b54b-571889cf6167) ![images](https://github.com/user-attachments/assets/11b74f7f-7aba-4d41-ac69-3b0e2038100d)
+
+   
 
 # 🪪 LICENSE
 This repository is licensed under the [Apache License 2.0](LICENSE).
