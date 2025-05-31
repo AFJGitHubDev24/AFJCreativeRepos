@@ -24,6 +24,7 @@ Please click on the following links to know more about the langauges/libraries:
      - Select the required MP4 file.
      - Click 'View Raw'.
      - After clicking 'View Raw', your required MP4 file will be downloaded automatically to your system.
+3. If you want any MP3 files to download, please click on this link: https://studio.youtube.com/channel/UC4hUGUaPhvFjYQPf14KyN1w/music
 
 # 🪪 LICENSE
 This repository is licensed under the [Apache License 2.0](LICENSE).
