@@ -14,7 +14,7 @@ public class AudioPlayer {
         System.out.println("🎵🎼🎵🎼🎵🎼🎵🎼");
 
         // The file to be used
-        String filePath = "AFJJavaProject\\src\\"; // Put your file path here
+        String filePath = "AFJJavaProject\\src\\City of the Wolf - The Mini Vandals (1).wav"; // Put your file path here
         File file = new File(filePath);
 
         // Play audio
