@@ -14,7 +14,7 @@ public class AudioPlayer {
         System.out.println("🎵🎼🎵🎼🎵🎼🎵🎼");
 
         // The file to be used
-        String filePath = "AFJJavaProject\\src\\City of the Wolf - The Mini Vandals.wav";
+        String filePath = "# Add the file path according to your File Explorer"; // Note: Add any .wav, .au or .aiff files of your choice.
         File file = new File(filePath);
 
         // Play audio
