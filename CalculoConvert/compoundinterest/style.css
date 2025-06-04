@@ -1,0 +1,65 @@
+body {
+    background-image: url(images/compintcalc.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: hsl(63, 100%, 50%);
+    text-shadow: 3px 3px hsl(0, 0%, 23%);
+    font-size: 3em;
+    text-align: center;
+}
+
+form {
+
+    background-color: aliceblue;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px hsla(0, 0%, 0%, 0.30);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+input {
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid hsl(36, 100%, 84%);
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: hsl(120, 94%, 40%);
+    color: hsl(0, 0%, 100%);
+    font-size: 1.5em;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: hsl(120, 94%, 30%);
+}
+
+#total {
+    font-size: 2em;
+}
+
+#total-amount {
+    color: hsl(120, 100%, 35%);
+    font-weight: bolder;
+}
