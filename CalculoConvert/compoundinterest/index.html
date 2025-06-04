@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="/images/code.png">
+    <title>AFJ Coder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>💵₹ COMPOUND INTEREST CALCULATOR ₹💵</h1>
+
+    <form>
+        <label for="principal">Principal Amount (in ₹):</label>
+        <input type="number" id="principal"><br>
+
+        <label for="rate">Interest Rate (in  %):</label>
+        <input type="number" id="rate"><br>
+
+        <label for="years">Years:</label>
+        <input type="number" id="years"><br>
+
+        <button type="button" onclick="calculate()" id="submit">Submit</button>
+
+        <p id="total">Total: <span id="total-amount">₹0.00</span></p>
+    </form>
+
+    <script src="compoundic.js"></script>
+</body>
+</html>
